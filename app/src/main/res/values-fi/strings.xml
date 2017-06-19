@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ostoslista</string>
+    <string name="textThem">Lisää uusi ostos</string>
+    <string name="buttonThem">Lisää</string>
+    <string name="buttonHuy">Peruuta</string>
+
+    <string name="txtupdate">Päivitää</string>
+    <string name="hintupdateenter">Lisää uusi ostos</string>
+    <string name="buttoncancel">Peruuta</string>
+    <string name="buttonxacnhan">Vahvista</string>
+    <string name="instruction">Ohje</string>
+    <string name="menuaddmore">Lisää uusi ostos</string>
+    <string name="menushoppinglist">Ostoslista</string>
+</resources>

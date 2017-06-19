@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/mnList"
+        android:title="@string/menushoppinglist" />
+    <item
+        android:id="@+id/mnInstructions"
+        android:title="@string/instruction" />
+    <item
+        android:id="@+id/memuAdd"
+        android:title="@string/menuaddmore" />
+
+</menu>

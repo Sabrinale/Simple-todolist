@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Shopping List</string>
+
+    <string name="textThem">Add more Items</string>
+    <string name="buttonThem">Add</string>
+    <string name="buttonHuy">Cancel</string>
+
+
+
+    <string name="txtupdate">Update</string>
+    <string name="buttonxacnhan">Confirm</string>
+    <string name="buttoncancel">Cancel</string>
+    <string name="hintupdateenter">Enter new updated shopping item</string>
+
+    <string name="instruction">Instruction</string>
+    <string name="menuaddmore">Add more items</string>
+    <string name="menushoppinglist">Shopping List</string>
+</resources>
